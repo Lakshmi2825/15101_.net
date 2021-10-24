@@ -1,0 +1,16 @@
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.exe
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.deps.json
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.runtimeconfig.json
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.runtimeconfig.dev.json
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.dll
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\ref\LINQDemoMastek.dll
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\bin\Debug\net5.0\LINQDemoMastek.pdb
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.csproj.AssemblyReference.cache
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.AssemblyInfoInputs.cache
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.AssemblyInfo.cs
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.csproj.CoreCompileInputs.cache
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.dll
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\ref\LINQDemoMastek.dll
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.pdb
+C:\Users\Vaka15101\source\repos\LINQDemoMastek\LINQDemoMastek\obj\Debug\net5.0\LINQDemoMastek.genruntimeconfig.cache
